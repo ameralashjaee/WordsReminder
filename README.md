@@ -1,6 +1,6 @@
 # WordsReminder
 
-MyWords is a simple application for saving and learning new words in different languages.
+WordsReminder is a simple application for saving and learning new words in different languages.
 
 ## Installation
 
